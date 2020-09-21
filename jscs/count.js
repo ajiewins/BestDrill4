@@ -1,19 +1,19 @@
 //JavaScript Document
-var v_ans_nst = "";
-var v_ans_gc = "";
-var v_ans_depth = ""; 
-var v_ans_perm = "";  
-var v_ans_nocoal = "";
-var v_ans_vert = "";                 
-var myTemp = "";
-var res_nst = "";
-var res_gc = "";
-var res_depth = "";
-var res_rank = "";
-var res_cs = "";
-var res_perm = "";
-var res_aec = "";
-var res_well = ""; 
+var v_ans_nst           = "";
+var v_ans_gc            = "";
+var v_ans_depth         = ""; 
+var v_ans_perm          = "";  
+var v_ans_nocoal        = "";
+var v_ans_vert          = "";                 
+var myTemp              = "";
+var res_nst             = "";
+var res_gc              = "";
+var res_depth           = "";
+var res_rank            = "";
+var res_cs              = "";
+var res_perm            = "";
+var res_aec             = "";
+var res_well            = ""; 
         
 
 
