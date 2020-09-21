@@ -119,7 +119,7 @@ jQuery.fn = jQuery.prototype = {
 				match = rquickExpr.exec( selector );
 			}
 
-			// Match html or make sure no context is specified for #id
+			// Match html or make sure no context is specified for #id.
 			if ( match && (match[1] || !context) ) {
 
 				// HANDLE: $(html) -> $(array)
